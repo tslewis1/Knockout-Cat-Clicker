@@ -6,6 +6,8 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
+
+<h1>Clickable Disney Cats!</h1>
     <ul data-bind="foreach: catList">
         <li data-bind="text: name, click: $parent.setCat"></li>
     </ul>
