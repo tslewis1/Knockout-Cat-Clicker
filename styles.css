@@ -1,0 +1,23 @@
+body {
+	background-color: #0EACE7;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+}
+
+h3 {
+	color: #EDFAFF;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+ul {
+	color: #092F7C;
+}
