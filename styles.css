@@ -13,6 +13,7 @@ h2 {
 
 h3 {
 	color: #EDFAFF;
+	text-align: center;
 }
 
 img {
@@ -24,8 +25,11 @@ img {
 
 ul {
 	color: #092F7C;
+	text-align: center;
+	list-style-type: none;
+	margin-right: 3%;
 }
 
-#catList {
-	align-content: center;
+#clicker {
+	text-align: center;
 }
