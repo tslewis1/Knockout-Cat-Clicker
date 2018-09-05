@@ -25,3 +25,7 @@ img {
 ul {
 	color: #092F7C;
 }
+
+#catList {
+	align-content: center;
+}
